@@ -1,0 +1,30 @@
+.tablePrimary {
+    width: 60% !important;
+}
+
+.tableHeadCells {
+    font-weight: bold !important;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+
+.tableHeading {
+    text-align: center;
+    padding: 10px;
+    background: #ccc;
+}
+
+.parentContainer {
+    margin-top: 5%;
+    display: flex;
+}
+
+.chart {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: bold;
+
+    margin-left: 10px;
+    width: 50% !important;
+}
